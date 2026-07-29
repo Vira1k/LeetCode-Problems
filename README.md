@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vira1k/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Vira1k/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vira1k/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Vira1k/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -32,6 +33,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vira1k/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vira1k/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vira1k/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vira1k/LeetCode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
