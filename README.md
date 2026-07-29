@@ -20,6 +20,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Vira1k/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vira1k/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Vira1k/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vira1k/LeetCode-Problems/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Vira1k/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Vira1k/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
