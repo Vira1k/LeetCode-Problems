@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/Vira1k/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vira1k/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vira1k/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Vira1k/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Vira1k/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vira1k/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Vira1k/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
